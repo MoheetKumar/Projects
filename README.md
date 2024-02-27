@@ -1,7 +1,7 @@
 # Moheet Kumar's Project Management Portfolio:
 As a seasoned project manager at Contour Data Solutions, I confidently oversee project coordination, ensuring flawless communication among engineers, stakeholders, and vendors to meet deadlines and deliver projects punctually.
 
- - ** Moheet Kumar's Complete Project History: Contour Data Solutions**
+ - ** Moheet Kumar's Complete Project History: **Contour Data Solutions**
    
 - **Client: Three Parties Involved (L&T, Shell, and First Light Energy)****
 Project 1: INSTALL AT&T DEVICE FOR SENA PROGRAM
