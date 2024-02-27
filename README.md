@@ -14,17 +14,17 @@ Project 1: Veeam and Zerto Setup
 Description: Demonstrated strong leadership in setting up Veeam and Zerto systems, meticulously handling backup job scheduling, retention policy configuration, and comprehensive documentation. Spearheaded Veeam server configuration and replication testing to ensure robust data protection.
 
 - **Client: Brentwood Industries**
-Project List:
-Brentwood - VEEAM Backups Implementation
-Onboarding of Managed Services for Qty 2 Firewalls
-Firewall Clean-up
-BCR - Adding 11 Firewalls to the Managed Services
-Nable Workstation and NetPath Licenses
-TJ1 and TJ2 Firewall Setup
-Firewall Firmware Upgrade
-Brentwood Network Optimization and Cleanup
-Wireless Site Surveys completed for upgrades Onsite Visit to Thailand
-Wireless Survey US Remote Sites
+- Project List:
+- Brentwood - VEEAM Backups Implementation
+- Onboarding of Managed Services for Qty 2 Firewalls
+- Firewall Clean-up
+- BCR - Adding 11 Firewalls to the Managed Services
+- Nable Workstation and NetPath Licenses
+- TJ1 and TJ2 Firewall Setup
+- Firewall Firmware Upgrade
+- Brentwood Network Optimization and Cleanup
+- Wireless Site Surveys completed for upgrades Onsite Visit to Thailand
+- Wireless Survey US Remote Sites
 These descriptions underscore my confident leadership and expertise in project management, showcasing a track record of successful project delivery and effective collaboration across diverse stakeholders and projects.
 
 - **Client - Kern Health Industry**
