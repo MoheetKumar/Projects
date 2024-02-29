@@ -3,7 +3,7 @@ As a seasoned project manager at Contour Data Solutions, I confidently oversee p
 - **Contour Data Solutions** 
 - **Client: Three Parties Involved (L&T, Shell, and First Light Energy)****
 Project 1: INSTALL AT&T DEVICE FOR SENA PROGRAM
-Description: Successfully orchestrated the installation of the AT&T device for the SENA program, ensuring seamless integration into our network rack and establishing a robust connection to Contour internet via a copper connection.
+Description: Successfully orchestrated the installation of the AT&T device for the SENA program, ensuring seamless integration into our network rack and establishing a robust connection to Contour Internet via a copper connection.
 Project 2: DOMAIN Migration from GoDaddy - Email, Website Hosting
 Description: Led the migration from GoDaddy with confidence, overseeing the transition by defederating Office 365, exploring migration options to Cinch/Contour for websites, and investigating optimal email migration strategies.
 
